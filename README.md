@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I' Sezer</h1>
+<h1 align="center">Hi 👋, I'ss Sezer</h1>
 <h3 align="center">Founder of Makine Çeviri & CEDRA Interactive</h3>
 
 <h3 align="left">Connect with me:</h3>
